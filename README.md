@@ -1,4 +1,4 @@
-#htmlparsergame
+>**HTML Parser:**
 Calculates the score for a given HTML file and save the score, as well as the date and time it was calculated. It can retrieve all scores generated in a provided date range, retrieve the all time highest score for a given file, the all time lowest score for a given file, and to see the average score for a given file.
 
 * Score HTML content using the provided scoring guide
