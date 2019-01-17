@@ -1,6 +1,6 @@
 /*
  * Aahad Patel
- * Red Ventures Scoring Project 
+ * Scoring Project 
  * aahadpat@usc.edu
  */
 package red_ventures;
